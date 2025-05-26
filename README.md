@@ -49,7 +49,8 @@ Wireframes for each display size
 
 ## Homepage
 
-<img src="Quotation.png" alt="Alt Text" width="200" height="auto">
+<img src="Mobile home.png" alt="quotation" width="200" height="auto">
+<img src="hometablet.png" alt="homepage" width="350" height="auto">
 
 
 ### Favicon
