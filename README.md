@@ -42,6 +42,7 @@ Bootstrap code for form and table
 Wireframes for each display size
 
 ## Homepage
+![Alt text](/Quotation.png)
 
 ### Favicon
  * Use Free Fontawesome icon
@@ -68,7 +69,36 @@ Wireframes for each display size
 ---
 ---
 
+## Gallery
+![Alt text](/Gallery.png)
+![Alt text](/Gallery2.png)
+### Favicon
+ * Use Free Fontawesome icon
+### Header with logo
+  
+
+* Navigation bar (to include);
+   * Images page of boxes and types of biscuits on offer
+   * History of company (about page)
+   * Prices page
+   * Order from page (with table)
+   * Testimony page
+
+### Main Body
+ Carousel with images (5-6)
+> company slogan
+
+
+## Footer 
+* Contact Information 
+   * Telephone number, address.
+* Socal media Links
+
+---
+---
+
 ## Prices
+![Alt text](/Prices.png)
 
 ### Favicon
 ### Header with logo
@@ -101,6 +131,10 @@ Wireframes for each display size
 ---
 
 ## Order Page
+![Alt text](/Order%201.png)
+![Alt text](/order%202.png)
+![Alt text](/Order%203%20.png)
+![Alt text](/Order%204.png)
 
 ### Favicon
 ### Header with logo
@@ -130,7 +164,7 @@ Wireframes for each display size
 ---
 
 ## About Page
-
+![Alt text](/about.png)
 ### Favicon
 ### Header with logo
   
@@ -156,7 +190,7 @@ Information about loyalty scheme and rewards
 ---
 
 ## Testimony Page
-
+![Alt text](/Testimonies.png)
 ### Favicon
 ### Header with logo
   
