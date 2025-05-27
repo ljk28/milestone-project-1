@@ -16,8 +16,9 @@ They do delivery or pick up.
 2. [User story 2](#user-story-2)
 3. [User story 3](#user-story-3)
 4. [User design/experience](#user-designexperience)
-   1. Bootstrap code for form and table
-   2. Wireframes for each display size (within each page below)
+   1. Colour palatte for design
+   2. Bootstrap code for form and table
+   3. Wireframes for each display size (within each page below)
 5. [Homepage](#homepage)
 6. [Prices Page](#prices)
 7. [Order page](#order-page)
@@ -43,6 +44,8 @@ A woman wants a selection of fine British biscuits to offer to her daughter and 
 * use bootstrap for the order form and buttons on order page
 * Wireframes for mobile, tablet and desktop
 ---
+Colour palatte 
+
 Bootstrap code for form and table
 
 Wireframes for each display size
