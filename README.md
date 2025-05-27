@@ -51,6 +51,8 @@ Wireframes for each display size
 
 <img src="homemobile1.png" alt="mobilehome" width="200" height="auto">
 <img src="HomePagetablet.png" alt="homepage" width="350" height="auto">
+<img src="homedesktop1.png" alt="homepage" width="400" height="auto">
+
 
 
 ### Favicon
@@ -83,6 +85,9 @@ Wireframes for each display size
 <img src="mobilegallery2.png" alt="gallery" width="200" height="auto">
 <img src="gallerytab1.png" alt="gallery" width="200" height="auto">
 <img src="gallerytab2.png" alt="gallery" width="200" height="auto">
+<img src="gallerydesktop1.png" alt="gallery" width="350" height="auto">
+<img src="gallerydesktop2.png" alt="gallery" width="350" height="auto">
+
 
 ### Favicon
  * Use Free Fontawesome icon
@@ -113,7 +118,9 @@ Wireframes for each display size
 <img src="pricesmob.png" alt="prices" width="200" height="auto">
 <img src="pricestab.png" alt="prices" width="300" height="auto">
 <br>
-<img src="" alt="prices" width="400" height="auto">
+<img src="pricesdesktop1.png" alt="prices" width="400" height="auto">
+
+
 
 ### Favicon
 ### Header with logo
@@ -151,9 +158,14 @@ Wireframes for each display size
 <img src="assets/ordermob2.png" alt="order3" width="150" height="auto">
 <img src="assets/ordermob3.png" alt="order4" width="150" height="auto">
 <img src="assets/ordermob4.png" alt="order1" width="150" height="auto">
+<img src="ordertab1.png" alt="order1" width="280" height="auto">
 <img src="ordertab2.png" alt="order2" width="280" height="auto">
 <img src="ordertab3.png" alt="order3" width="280" height="auto">
 <img src="ordertab4.png" alt="order4" width="280" height="auto">
+<img src="orderdesktop1.png" alt="order1" width="350" height="auto">
+<img src="orderdesktop2.png" alt="order2" width="350" height="auto">
+<img src="orderdesktop3.png" alt="order3" width="350" height="auto">
+<img src="orderdesktop4.png" alt="order4" width="350" height="auto">
 
 ### Favicon
 ### Header with logo
@@ -185,6 +197,7 @@ Wireframes for each display size
 ## About Page
 <img src="aboutmobile.png" alt="about" width="200" height="auto">
 <img src="abouttab.png" alt="about" width="300" height="auto">
+<img src="aboutdesktop1.png" alt="about" width="350" height="auto">
 
 ### Favicon
 ### Header with logo
@@ -212,7 +225,8 @@ Information about loyalty scheme and rewards
 
 ## Testimony Page
 <img src="testimoniesmob.png" alt="testimony" width="200" height="auto">
-<img src="Testimoniestab.png" alt="testimony" width="200" height="auto">
+<img src="Testimoniestab.png" alt="testimony" width="300" height="auto">
+<img src="testimoniesdesktop1.png" alt="testimoniesdesktop" width="350" height="auto">
 
 ### Favicon
 ### Header with logo
