@@ -44,7 +44,9 @@ A woman wants a selection of fine British biscuits to offer to her daughter and 
 * use bootstrap for the order form and buttons on order page
 * Wireframes for mobile, tablet and desktop
 ---
-Colour palatte 
+### Colour Palette 
+<img src="Screenshot 2025-05-28 at 11.25.42.png" alt="gallery" width="500" height="auto">
+---
 
 Bootstrap code for form and table
 
