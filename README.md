@@ -45,7 +45,7 @@ A woman wants a selection of fine British biscuits to offer to her daughter and 
 * Wireframes for mobile, tablet and desktop
 ---
 ### Colour Palette 
-<img src="Screenshot 2025-05-28 at 11.25.42.png" alt="gallery" width="500" height="auto">
+<img src="Biscuit bakery (3)/palette.svg" alt="gallery" width="500" height="auto">
 
 ---
 
