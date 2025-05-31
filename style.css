@@ -19,7 +19,10 @@
 /* For desktop screensizes /*
 
 /*CSS*/
-
+body {
+    background-image: url(logo/newlogo3.png)
+    background-color: #ffeada;
+   }
 
 /* base styles */
 * {
