@@ -2,49 +2,18 @@
     color: #ffeada;
 }
 
+
+
 .img-fluid {
     max-width: 100%;
     height: 100%;
   }
 
-.container-biscuitlogo {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-}
 
 /* Media queries for logo on navbar */
 /* For mobile screensizes /*
 /* For tablet screensizes /*
 /* For desktop screensizes /*
 
-/*CSS*/
-body {
-    background-image: url(logo/newlogo3.png)
-    background-color: #ffeada;
-   }
 
-/* base styles */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    list-style: none;
-    text-decoration: none;
-}
-
-a {
-    color: white;
-}
-a:visited {
-    color: white;
-}
-a:hover {
-    color: #6F86FF;
-}
-
-body {
-    background-color: rgb(65, 71, 97);
-    font-family: sans-serif;
-}
 
