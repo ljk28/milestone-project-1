@@ -177,7 +177,7 @@ Wireframes for each display size
   
 
 * Navigation bar (to include);
-   * Images page of boxes and types of biscuits on offer
+   * Images of biscuits on offer
    * History of company (about page)
    * Prices page
    * Order from page (with table)
