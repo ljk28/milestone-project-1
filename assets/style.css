@@ -14,14 +14,15 @@ body, h1, h2, h3, p, table
 
 .navbar {
   background-color: #ffeada;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
   .footer {
     color: #E3AA75;
     display: flex;
-    align-self: auto;
+    justify-content: space-evenly;
     background-color:#662c05;
-    font-size: large;
+    font-size: medium;
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
