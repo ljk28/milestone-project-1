@@ -1,4 +1,16 @@
 
+body, h1, h2, h3, p, table
+{
+  font-family: league spartan;
+}
+
+
+.league-spartan {
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 
 .navbar {
   background-color: #ffeada;
@@ -11,6 +23,7 @@
     background-color:#662c05;
     font-size: large;
     text-align: center;
+    font-family: League-Spartan;
 }
 
 
