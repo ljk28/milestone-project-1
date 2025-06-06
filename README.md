@@ -1,6 +1,6 @@
 # milestone-project-1
 
-<img src="../milestone-p-1/assets/images/logo.png">
+<img src="assets/images/logo.png">
 
 ## Description
 A British biscuit bakery is commemorating its 10th year and wants to showcase their exquisite biscuit selection with a fresh new website.
