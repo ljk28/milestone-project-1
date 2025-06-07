@@ -20,13 +20,19 @@ body, h1, h2, h3, p, table
   .footer {
     color: #E3AA75;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     background-color:#662c05;
     font-size: medium;
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
+.site {
+  min-height: 100dvh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: minmax(0, 1fr);
+}
 
 
 
