@@ -67,8 +67,8 @@ Wireframes for each display size
 ## Homepage
 
 <img src="assets/images/home.jpeg" alt="mobilehome" width="200" height="auto">
-<img src="HomePagetablet.png" alt="homepage" width="350" height="auto">
-<img src="homedesktop1.png" alt="homepage" width="400" height="auto">
+<img src="assets/wireframes/tablet/HomePage.jpeg" alt="homepage" width="350" height="auto">
+<img src="assets/wireframes/desktop/=.jpeg" alt="homepage" width="400" height="auto">
 
 
 
@@ -98,7 +98,7 @@ Wireframes for each display size
 ---
 
 ## Gallery
-<img src="assets/wireframes/gallerymobile.jpeg" alt="gallery" width="200" height="auto">
+<img src="assets/wireframes/mobile/gallerymobile.jpeg" alt="gallery" width="200" height="auto">
 <img src="mobilegallery2.png" alt="gallery" width="200" height="auto">
 <img src="gallerytab1.png" alt="gallery" width="200" height="auto">
 <img src="gallerytab2.png" alt="gallery" width="200" height="auto">
