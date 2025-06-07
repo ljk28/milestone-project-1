@@ -15,8 +15,9 @@ body, h1, h2, h3, p, table
   text-align: center;
  }
 
-#successimg {
-  text-align: center;
+.table-container {
+  display: flex;
+  justify-content: center;
 }
 
 .league-spartan {

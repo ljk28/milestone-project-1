@@ -275,5 +275,13 @@ Tutorials and websites and videos used to help with the contruction of the websi
 Keep Footer at the Bottom of the Page: HTML & CSS (2024) [https://www.youtube.com/watch?v=RYImAil3lgo]
 (Dmitry Mayorov)
 
+---
+
+### Issues and Bugs
+Trying to centre the table itself posed a problem (not just the text within). Thankfully this tutorial came to the rescue:
+[https://elementor.com/blog/how-to-center-a-table-in-css/]
+
+File and folder paths were another a big issue.
+Not being able to push commits as somehow it stopped working. Thus, forcing me to uninstall VSCode and reinstall it. I even had to delete some folders and files and rearrange them on my desktop computer. I downloaded the zip file from Github project repository and I am grateful to my mentor who advised me to commit often. This saved me hours if not days of starting all over again. :)
 
 ### Deploying the website
