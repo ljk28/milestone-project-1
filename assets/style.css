@@ -3,7 +3,21 @@ body, h1, h2, h3, p, table
 {
   font-family: league spartan;
 }
+ #about, h2  {
+  text-align: center;
+ }
 
+ #gallery, p {
+  text-align: center;
+ }
+
+ #home, h1, h3, h4 {
+  text-align: center;
+ }
+
+#successimg {
+  text-align: center;
+}
 
 .league-spartan {
   font-family: "League Spartan", sans-serif;
@@ -31,22 +45,19 @@ body, h1, h2, h3, p, table
   min-height: 100dvh;
   display: grid;
   grid-template-rows: auto 1fr auto;
-  grid-template-columns: minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr); 
 }
 
-
-
-
-
-
-
-
+  
+  @media screen (576px) and (768px) and (992px) 
+  {
+  min-width: 100vh; 
+  
+  }
 
 /* reference for code for responsive footer [https://reintech.io/blog/creating-responsive-footer-with-css]*/
 /* Media queries for logo on navbar */
-/* For mobile screensizes /*
-/* For tablet screensizes /*
-/* For desktop screensizes /*
+
 
 
 
