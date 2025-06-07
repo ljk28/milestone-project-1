@@ -10,16 +10,17 @@ They do delivery or pick up.
 
 # Rationale
 ## Purpose 
-The puspose of creating this website is to ensure the family run buisness meets the needs of its current and potential customers. They want to very much be in the 21st century and utilizing technology is a great way to achieve this. Expanding from their current address to online orders enables them to reach a wider customer base.
+The puspose of creating this website is to ensure the family run business meets the needs of its current and potential customers. They want to very much be in the 21st century and utilizing technology is a great way to achieve this. Expanding from their current address to online orders enables them to reach a wider customer base.
 
 The users all have differing needs and wants. From fast turn-around for delivery to an easily accessible website to place orders.
 Alongside a dropdown menu option for the order page, the users are taken to a new page informing them of a successful order after they place one.
 
-The gallery images provide the users with a taste of the selection on offer and the menu makes navigation easy to use. From clearly defined sections to an easy to read font. 
+The gallery images provide the users with a taste of the selection on offer and the menu makes navigation easy to use. From clearly defined sections to an easy to read font. Web safe fonts have been considered.
 
 This website has been made mobile friendly and scales up to accommodate larger screens. Being responsive to portrait and landscape orientations. 
 
 The footer has much needed contact information from the location and address to the telephone number. This ensures that customers/users have a fall back option.  
+
 
 ---
 
@@ -50,11 +51,11 @@ This is one time they don’t think taking the biscuit is a bad thing.
 Testimonies of the quality and being able to seamlessly order is what they need. The museum manager will be making a call for next day delivery.
 
 ### User story 3
-A woman wants a selection of fine British biscuits to offer to her daughter and friends when they come round to celebrate the passing of her driving test. She is looking for an easy to navigate website to check out prices and see the gallery before she comes to pick them up.
+A mother wants a selection of fine British biscuits to offer to her daughter and friends when they come round to celebrate the passing of her driving test. She is looking for an easy to navigate website to check out prices and see the gallery before she comes to pick them up.
 
 ## User design/experience
 * Ensure all pages include responsive design for all screen sizes
-* use Bootstrap for the order form and buttons on order page
+* Use Bootstrap for the order form and buttons on order page
 * Wireframes for mobile, tablet and desktop!
 ### Colour Palette 
 
@@ -78,10 +79,10 @@ Wireframes for each display size
   
 
 * Navigation bar (to include);
-   * Images page of boxes and types of biscuits on offer
+   * Images page with biscuits on offer
    * History of company (about page)
    * Prices page
-   * Order from page (with table)
+   * Order page (with button and form)
    * Testimony page
 
 ### Main Body
@@ -92,7 +93,7 @@ Wireframes for each display size
 ## Footer 
 * Contact Information 
    * Telephone number, address.
-* Socal media Links
+* Social Media Links
 
 ---
 ---
@@ -114,7 +115,7 @@ Wireframes for each display size
    * Images page of biscuits on offer
    * History of company (about page)
    * Prices page
-   * Order from page (with table)
+   * Order page (with button and form)
    * Testimony page
 
 
@@ -128,7 +129,7 @@ Wireframes for each display size
 ## Footer 
 * Contact Information 
    * Telephone number, address.
-* Socal media Links
+* Social Media Links
 
 ---
 ---
@@ -149,7 +150,7 @@ Wireframes for each display size
    * Images page with types of biscuits on offer
    * History of company (about page)
    * Prices page
-   * Order from page (with table)
+   * Order from page (with button and form)
    * Testimony page
 
 ## Main body
@@ -159,13 +160,13 @@ Wireframes for each display size
    | Biscuit  | Size |  Cost |
    | ---      | ---  |  ---  |
    | Assortment | Large |  £15       | 
-   | Choc digestive | Medium | £12   | 
+   | Shortbread | Medium | £12   | 
    | Custard creams| Small | £8   | 
         This is a responsive table
 ## Footer 
 * Contact Information 
    * Telephone number, address.
-* Socal Media Links
+* Social Media Links
 
 ---
 ---
@@ -187,20 +188,19 @@ Wireframes for each display size
    * Images of biscuits on offer
    * History of company (about page)
    * Prices page
-   * Order from page (with table)
+   * Order page (with button and form)
    * Testimony page
 
 ### Main Body
  * Form with dropdown list
  * Submit button
  * Feedback response for user once submitted "successfully submitted order" or "order on its way"
- * Link back to home page 
 
 
 ## Footer 
 * Contact Information 
    * Telephone number, address.
-* Socal Media Links
+* Social Media Links
 
 ---
 ---
@@ -218,7 +218,7 @@ Wireframes for each display size
    * Images page with types of biscuits on offer
    * History of company (about page)
    * Prices page
-   * Order from page (with table)
+   * Order page (with button and form)
    * Testimony page
 
 ### Main Body
@@ -230,7 +230,7 @@ Information about loyalty scheme and rewards
 ## Footer 
 * Contact Information 
    * Telephone number, address.
-* Socal Media Links
+* Social Media Links
 ---
 ---
 
@@ -247,7 +247,7 @@ Information about loyalty scheme and rewards
    * Images page of boxes and types of biscuits on offer
    * History of company (about page)
    * Prices page
-   * Order from page (with table)
+   * Order page (with button and form)
    * Testimony page
 
 ### Main Body
@@ -258,7 +258,7 @@ Information about loyalty scheme and rewards
 ## Footer 
 * Contact Information 
    * Telephone number, address.
-* Socal Media Links
+* Social Media Links
 ---
 
 ### Using Github to clone the repository
