@@ -8,7 +8,7 @@ body, h1, h2, h3, p, table
 .league-spartan {
   font-family: "League Spartan", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: weight;
   font-style: normal;
 }
 
@@ -35,13 +35,6 @@ body, h1, h2, h3, p, table
 
 
 
-
-@media (min-width: 600px) {
-  .footer {
-      width: 100%;
-      margin-bottom: 10px;
-  }
-}
 
 /* reference for code for responsive footer [https://reintech.io/blog/creating-responsive-footer-with-css]*/
 /* Media queries for logo on navbar */
