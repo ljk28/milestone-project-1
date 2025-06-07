@@ -271,7 +271,13 @@ Pexels
 ---
 Tutorials/websites/videos used to help with the contruction of the website are as follows:
 
-
+<ul>
+<li>
+Bootstrap Docs</li>
+<li>Shecodes.io</li>
+<li>W3Schools</li>
+<li>MDN Docs</li>
+</ul>
 
 
 ---
@@ -287,6 +293,6 @@ I had white space at the bottom of my pages and this was distracting. This video
 
 File and folder paths were another big issue.
 In fact, most likely the biggest.
-Not being able to push commits as somehow it stopped working. Thus, forcing me to uninstall VSCode and reinstall it. I even had to delete some folders and files and rearrange them on my desktop computer. I downloaded the zip file from Github project repository and I am grateful to my mentor who advised me to commit often. This saved me hours if not days of starting all over again. :)
+Not being able to push commits as somehow it stopped working. Thus, forcing me to uninstall VSCode and reinstall it. I even had to delete some folders and files and rearrange them on my desktop computer. I downloaded the zip file from the Github project repository and I am grateful to my mentor who advised me to commit often. This saved me hours if not days of starting all over again. :)
 
 ### Deploying the website

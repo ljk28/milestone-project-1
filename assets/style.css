@@ -1,3 +1,8 @@
+.pagelogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 body, h1, h2, h3, p, table
 {
