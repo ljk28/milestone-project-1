@@ -98,7 +98,7 @@ Wireframes for each display size
 ---
 
 ## Gallery
-<img src="mobilegallery1.png" alt="gallery" width="200" height="auto">
+<img src="assets/wireframes/gallerymobile.jpeg" alt="gallery" width="200" height="auto">
 <img src="mobilegallery2.png" alt="gallery" width="200" height="auto">
 <img src="gallerytab1.png" alt="gallery" width="200" height="auto">
 <img src="gallerytab2.png" alt="gallery" width="200" height="auto">
